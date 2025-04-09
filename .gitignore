@@ -1,0 +1,11 @@
+/facescape-generate/toolkit/facescape_bilinear_model_v1_6
+*.jpg
+*.jpeg
+*.png
+*.obj
+*.mtl
+*.npz
+/demo_output/
+/output/
+/test_data/
+/facespace_bilinear_model/

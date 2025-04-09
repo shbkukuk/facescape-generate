@@ -11,7 +11,7 @@ from src.mesh_obj import mesh_obj
 
 class facescape_fitter(facescape_bm):
     def __init__(self, fs_file, kp2d_backend = 'dlib', 
-                 dlib_kp2d_model = "./predef/shape_predictor_68_face_landmarks.dat"):
+                 dlib_kp2d_model = "C:/Users/SBK/Desktop/master-thesis/code/facescape-generate/toolkit/predef/shape_predictor_68_face_landmarks.dat"):
         super(facescape_fitter, self).__init__(fs_file)
         
         # make expression GaussianMixture model

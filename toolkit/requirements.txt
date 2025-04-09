@@ -8,5 +8,5 @@ scipy
 trimesh
 pyrender
 openmesh
-sklearn
+scikit-learn
 tqdm
